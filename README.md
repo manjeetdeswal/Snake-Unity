@@ -1,4 +1,4 @@
 # Snake-Unity
 
- ![](https://j.gifs.com/OgzZDQ.gif)
+ ![](https://j.gifs.com/QkBO2M.gif)
 
