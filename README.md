@@ -3,5 +3,4 @@
 
 <video src="https://github.com/manjeetdeswal/Snake-Unity/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4"  </video>
 
-<video src='[your URL here](https://github.com/manjeetdeswal/Snake-Unity/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)' width=180/>
-![Demo](https://github.com/manjeetdeswal/Snake-Unity/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+<iframe src='//gifs.com/embed/gif-QkBO2M' frameborder='0' scrolling='no' width='1920px' height='1080px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
